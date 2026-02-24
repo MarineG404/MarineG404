@@ -17,7 +17,7 @@
 <h2 align="center">💻 Languages and Tools</h2>
 
 <p align="center">
-	<img src="https://urskill.erickpaoletti.fr?icons=javascript,typescript,npm,,,vscode,visualstudio,pycharm,,,linux,debian,ubuntu,html,bootstrap,css,,,github,gitlab,git,,,windows,arduino,raspberrypi,python,php,cs,cpp,,docker,mysql,postman,,,,,,angular,react,vuejs,,,,githubactions,,,,,,,symfony,tempora,django&max_per_row=13&background_color=2d1515" />
+	<img src="https://urskill.erickpaoletti.fr?icons=javascript,typescript,npm,,,vscode,visualstudio,pycharm,,,linux,debian,ubuntu,html,bootstrap,css,,,github,gitlab,git,,,windows,arduino,raspberrypi,python,php,csharp,cpp,,docker,mysql,postman,,,,,,angular,react,vuejs,,,,githubactions,,,,,,,symfony,tempora,django&max_per_row=13&background_color=2d1515" />
 </p>
 
 <p align="center"><i>Those icons are displayed using <a href="https://urskill.erickpaoletti.fr">UrSkill</a>, <a href="https://github.com/SkyWors">Sky's</a> projects!</i></p>
